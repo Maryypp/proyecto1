@@ -1,6 +1,6 @@
 fun main() {
-/*
- //1
+ /*
+ //ej
 print("Ingrese primer valor:")
     val num1 = readln().toInt()
     print("Ingrese segundo valor:")
@@ -14,11 +14,11 @@ print("Ingrese primer valor:")
             print(num2)
         else
             print(num3);
-  */
+*/
 
 
-/*
-//2
+ /*
+//ej
 print("Ingrese día:")
  val dia = readln().toInt()
  print("Ingrese mes:")
@@ -30,8 +30,8 @@ print("Ingrese día:")
 */
 
 
-/*
-//3
+ /*
+//1
 print("Ingrese día:")
 val dia = readln().toInt()
 print("Ingrese mes:")
@@ -40,11 +40,13 @@ print("Ingrese Año:")
 val año = readln().toInt()
 if ( mes == 12 && dia == 25)
     print("Corresponde a navidad")
- */
+ else
+  print("No corresponde a navidad")
+*/
 
 
 /*
-//4
+//2
 print("Ingrese primer numero:")
 val num1 = readln().toInt()
 print("Ingrese segundo numero:")
@@ -58,7 +60,7 @@ if (num1 == num2 && num1 == num3)
 
 
 /*
-//5
+//3
 print("Ingrese primer numero:")
 val num1 = readln().toInt()
 print("Ingrese segundo numero:")
@@ -66,12 +68,12 @@ val num2 = readln().toInt()
 print("Ingrese tercer numero:")
 val num3 = readln().toInt()
 if (num1 < 10 && num2 < 10 && num3 <10)
-print("Todos son menores a diez")
+print("Todos los numeros son menores a diez")
  */
 
 
 /*
-//6
+//4
 print("Ingrese primer numero:")
 val num1 = readln().toInt()
 print("Ingrese segundo numero:")
@@ -84,7 +86,7 @@ if (num1 > 10 || num2 > 10 || num3 > 10)
 
 
 /*
-//7
+//5
 print("Ingrese primer numero:")
 val num1 = readln().toInt()
 print("Ingrese segundo numero:")
@@ -92,12 +94,12 @@ val num2 = readln().toInt()
 print("Ingrese tercer numero:")
 val num3 = readln().toInt()
 if (num1 < 10 || num2 < 10 || num3 < 10)
-    print("Alguno es menor a diez")
+    print("Alguno de los numeros es menor a diez")
 */
 
 
 /*
-//8
+//6
 print("Ingrese coordenada x:")
 val x = readln().toInt()
 print("Ingrese coordenada y:")
@@ -119,7 +121,7 @@ else
 
 
 /*
-//9
+//7
  print("Ingrese primer valor:")
  val valor1 = readln().toInt()
  print("Ingrese segundo valor:")
@@ -132,5 +134,6 @@ else
  valor1 else if (valor2 > valor3) valor2 else valor3
  print("El mayor de la lista es $mayor y el menor $menor")
 */
+
 
 }

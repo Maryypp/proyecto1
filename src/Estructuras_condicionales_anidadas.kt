@@ -46,19 +46,20 @@ fun main () {
 */
 
 
-    /*
+/*
 //Problema 3
-    print("Ingrese un numero: ")
+    print("Ingrese un numero:")
 val num = readln().toInt()
-    if(num >= 100)
+    if(num > 99)
         print("Tiene 3 digitos")
     else
-        if(num >=10)
+        if(num > 9)
             print("Tiene 2 digitos")
     else
-        if(num <= 9)
             print("Tiene 1 digito")
 */
+
+    /*
     //Problema 4
 
     print("Ingrese la cantidad de preguntas que contesto: ")
@@ -74,7 +75,7 @@ val num = readln().toInt()
         print("Nivel regular")
     if(promedio < 0.50)
         print("Fuera de nivel")
-
+*/
 
 
 
