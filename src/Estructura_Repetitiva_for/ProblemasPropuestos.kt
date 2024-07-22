@@ -1,12 +1,7 @@
 package Estructura_Repetitiva_for
 
 fun main() {
-    //Confeccionar un programa que lea n pares de datos, cada par de datos
-    //corresponde a la medida de la base y la altura de un triángulo. El programa
-    //deberá informar:
-    //a) De cada triángulo la medida de su base, su altura y su superficie (la
-    //superficie se calcula multiplicando la base por la altura y dividiendo por dos).
-    //b) La cantidad de triángulos cuya superficie es mayor a 12.
+   //1
     /*
     var super12 = 0
     print("Ingrese el n de triangulos que desea ingresar con sus pares de datos: ")
@@ -25,8 +20,7 @@ fun main() {
      */
 
 
-    //Desarrollar un programa que solicite la carga de 10 números e imprima la
-    //suma de los últimos 5 valores ingresados.
+   //2
     /*
     var suma = 0
     for (i in 1..10) {
@@ -39,7 +33,7 @@ fun main() {
     */
 
 
-    //Desarrollar un programa que muestre la tabla de multiplicar del 5 (del 5 al 50)
+   //2
     /*
     println("Tabla de multiplicar del 5")
     for(i in 5..50 step 5){
@@ -47,10 +41,7 @@ fun main() {
     */
 
 
-    //Confeccionar un programa que permita ingresar un valor del 1 al 10 y nos
-    //muestre la tabla de multiplicar del mismo (los primeros 12 términos)
-    //Ejemplo: Si ingresó 3 deberá aparecer en pantalla los valores 3, 6, 9, hasta el
-    //36.
+     //3
     /*
     print("Ingrese un valor del 1 al 10: ")
     val num = readln().toInt()
@@ -61,10 +52,7 @@ fun main() {
     */
 
 
-    //Realizar un programa que lea los lados de n triángulos, e informar:
-    //a) De cada uno de ellos, qué tipo de triángulo es: equilátero (tres lados
-    //iguales), isósceles (dos lados iguales), o escaleno (ningún lado igual)
-    //b) Cantidad de triángulos de cada tipo.
+     //4
     /*
     var equilatero = 0
     var isosceles = 0
@@ -96,11 +84,7 @@ fun main() {
     */
 
 
-    //Escribir un programa que pida ingresar coordenadas (x,y) que representan
-    //puntos en el plano.
-    //Informar cuántos puntos se han ingresado en el primer, segundo, tercer y
-    //cuarto cuadrante. Al comenzar el programa se pide que se ingrese la cantidad
-    //de puntos a procesar.
+    //5
     /*
     var cuad1 = 0
     var cuad2 = 0
@@ -133,11 +117,7 @@ fun main() {
     */
 
 
-    //Se realiza la carga de 10 valores enteros por teclado. Se desea conocer:
-    //a) La cantidad de valores ingresados negativos.
-    //b) La cantidad de valores ingresados positivos.
-    //c) La cantidad de múltiplos de 15.
-    //d) El valor acumulado de los números ingresados que son pares.
+     //6
     /*
     var negativos = 0
     var positivos = 0
