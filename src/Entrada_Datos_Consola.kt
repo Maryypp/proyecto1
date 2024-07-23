@@ -1,3 +1,4 @@
+
 fun main() {
 
     /*print("Ingrese primer valor:")
@@ -44,17 +45,19 @@ fun main() {
     print("El resultado de la multiplicacion de los dos ultimos numeros es $producto")
 
      */
-
+/*
     print("Ingrese primer numero entero:")
-    val primer = readln() .toInt()
+    val primer = readln().toInt()
     print("Ingrese el segundo numero entero:")
-    val segundo = readln() .toInt()
+    val segundo = readln().toInt()
     print("Ingrese el tercer numero entero:")
-    val tercer = readln() .toInt()
+    val tercer = readln().toInt()
     print("Ingrese el cuarto numero entero:")
     val cuarto = readln() .toInt()
     val suma = primer + segundo + tercer + cuarto
     println("El resultado de la suma de los numeros es $suma")
     val producto = (primer + segundo + tercer + cuarto)/4
     print("El promedio de los numeros es $producto")
+    */
+
 }

@@ -25,8 +25,9 @@ print(resultado)
  */
 
     //Problema 3
+    /*
     print("Ingrese un numero entero entre el 1 y el 99: ")
     val valor = readln().toInt()
     val cant = if(valor >= 10) println("$valor tiene 2 digitos") else println("$valor tiene un digito")
-
+*/
 }

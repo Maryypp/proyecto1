@@ -1,3 +1,4 @@
+
 fun main () {
     //Problema 1
 /*
@@ -33,7 +34,7 @@ fun main () {
         print("El promedio de los valores ingresados es: $promedio")
     } else
         print("No se ingresaron valores")
-*/
+
 
     //Problema 3
 
@@ -66,7 +67,7 @@ fun main () {
 
 
 
-
+*/
 
 
 

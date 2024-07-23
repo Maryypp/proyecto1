@@ -57,7 +57,7 @@ fun main() {
         println("Promocionado")
     }
 
-*/
+
     //Problema 5
     print("Ingrese un numero entero del 1 al 99: ")
     val num = readln().toInt()
@@ -67,5 +67,5 @@ fun main() {
         println("El numero tiene un digito")
 
     }
-
+*/
 }
