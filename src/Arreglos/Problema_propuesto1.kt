@@ -1,18 +1,18 @@
 package Arreglos
 fun main() {
-    val valoress = FloatArray(8)
-    var total = 0f
+    val valoress = IntArray(8)
+    var total = 0
     for (i in 0..valoress.size -1) {
         print("Ingrese el valor: ")
-        valoress[i] = readln().toFloat()
+        valoress[i] = readln().toInt()
         total += valoress[i]
     }
-    var may = 0f
+    var may = 0
     var mayo = 0
     for (i in 0..valoress.size -1) {
         if (valoress[i] > 36)
             may += valoress[i]
-        else
+
             if (valoress[i] > 50)
                 mayo++
     }
