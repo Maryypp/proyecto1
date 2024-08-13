@@ -1,4 +1,4 @@
-package Estructura_Repetitiva_for
+ package Estructura_Repetitiva_for
 fun main() {
 
 /*
