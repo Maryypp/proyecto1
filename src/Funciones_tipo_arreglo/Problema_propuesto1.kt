@@ -11,7 +11,7 @@ fun main() {
 
     val suma = sumarElementos(array)
 
-    // Imprimir el resultado de la suma
+
     println("La suma de los elementos del arreglo es: $suma")
 }
 
